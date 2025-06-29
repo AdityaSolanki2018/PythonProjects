@@ -7,4 +7,4 @@ My 100 Days Python Journey with 100+ Pojects
 | Day | Project Name       | Description                                                    |
 |-----|--------------------|----------------------------------------------------------------|
 | 1   | Band Generator     | Simple Band Name Generator using Strin Concatination in Python |
-| 2   | Todo App           | CLI Todo using file handling                                   |
+| 2   | Tip Calculator     | Calculate Tips and Splits the bill                             |
