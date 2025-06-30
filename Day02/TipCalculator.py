@@ -12,4 +12,4 @@ amount_per_person = total_amount / persons
 print(f"Tip amount: ${tip_amount:.2f}")
 print(f"Total amount (including tip): ${total_amount:.2f}")
 print(f"Amount per person: ${amount_per_person:.2f}")
-# This code calculates the tip amount, total amount including the tip, and the amount each person
+# This code calculates the tip amount, total amount including the tip, and the amount each personl
