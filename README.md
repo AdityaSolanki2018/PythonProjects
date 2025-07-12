@@ -17,7 +17,7 @@ This repository contains beginner to intermediate level projects to reinforce my
 | 19  | ✏️ Sketch App          | A basic sketching tool using the `turtle` module                         |
 | 19  | 🐢 Turtle Racing Game  | Simulated turtle racing game for learning loops & graphics               |
 | 20  | 🐍 Snake Game – Part 1 | First part of the classic snake game using Python Turtle & OOP concepts |
-
+| 21  | 🐍 Snake Game - Part 2 | Completed the classic Snake Game                                         |
 > 📌 I skipped some mini-projects as they were simple and focused instead on more meaningful builds — I’ll add them back gradually for completeness.
 
 ---
@@ -36,6 +36,5 @@ This repository contains beginner to intermediate level projects to reinforce my
 
 | Day | Project Name                 |
 |-----|------------------------------|
-| 21  | Snake Game – Part 2 (Complete version) |
 | 22  | Calculator GUI using Tkinter |
-| 23  | Quiz App
+| 23  | Quiz App                     | 
