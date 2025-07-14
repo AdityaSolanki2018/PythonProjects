@@ -26,17 +26,18 @@ This project is part of my #100DaysOfPython journey, and is a solid step forward
 ---
 
 ## 📂 Project Structure
-📁 DayXX_PongGame/
-├── main.py
-├── paddle.py
-├── ball.py
-├── scoreboard.py
-├── README.md
+    📁 DayXX_PongGame/
+    ├── main.py
+    ├── paddle.py
+    ├── ball.py
+    ├── scoreboard.py
+    ├── README.md
 
 ## ▶️ How to Play
 
 1. Make sure Python is installed.
-2. Run the game:
+  
+3. Run the game:
 
 ```bash
 python main.py
@@ -44,18 +45,18 @@ python main.py
 
 3. Controls:
 
-Left Paddle: W = Up | S = Down
+  Left Paddle: W = Up | S = Down
 
-Right Paddle: ↑ = Up | ↓ = Down
+  Right Paddle: ↑ = Up | ↓ = Down
 
 🧠 What I Learned
-Writing and structuring multiple Python classes
+* Writing and structuring multiple Python classes
 
-Real-time game loops with precise screen control
+* Real-time game loops with precise screen control
 
-Collision detection logic
+* Collision detection logic
 
-Handling keyboard events in Turtle
+* Handling keyboard events in Turtle
 
-Score tracking and win condition logic
+* Score tracking and win condition logic
 
