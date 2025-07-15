@@ -19,6 +19,7 @@ This repository contains beginner to intermediate level projects to reinforce my
 | 20  | 🐍 Snake Game – Part 1 | First part of the classic snake game using Python Turtle & OOP concepts |
 | 21  | 🐍 Snake Game - Part 2 | Completed the classic Snake Game                                         |
 | 22  | 🏓 Classic Pong Game   | A simple, clean, and fully playable version of the classic **Pong Game**  |
+| 23  | 🐢 Turtle Crossing Game| Python Turtle Arcade Game. Inspired by the classic **Frogger** game.      |
 > 📌 I skipped some mini-projects as they were simple and focused instead on more meaningful builds — I’ll add them back gradually for completeness.
 
 ---
@@ -37,5 +38,5 @@ This repository contains beginner to intermediate level projects to reinforce my
 
 | Day | Project Name                 |
 |-----|------------------------------|
-| 23  | Calculator GUI using Tkinter |
-| 24  | Quiz App                     | 
+| 24  | Calculator GUI using Tkinter |
+| 25  | Quiz App                     | 
