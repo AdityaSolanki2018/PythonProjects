@@ -49,8 +49,8 @@ python main.py
 
 ❌ If you collide with a car
 
-📂 Project Structure
-    📁 DayXX_TurtleCrossingGame/
+##📂 Project Structure
+  📁 DayXX_TurtleCrossingGame/
     ├── main.py
     ├── player.py
     ├── car_manager.py
