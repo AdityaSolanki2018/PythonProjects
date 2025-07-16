@@ -26,17 +26,18 @@ It’s a great example of **file handling**, **string manipulation**, and **auto
 ---
 
 ## 📂 Folder Structure
+
 📁 Day24_CustomLetterGenerator/
-├── main.py
-├── Input/
-│ ├── Names/
-│ │ └── invited_names.txt
-│ └── Letters/
-│ └── starting_letter.txt
-├── Output/
-│ └── ReadyToSend/
-│ └── letter_for_<Name>.txt
-└── README.md
+   ├── main.py
+   ├── Input/
+   │ ├── Names/
+   │ │ └── invited_names.txt
+   │ └── Letters/
+   │ └── starting_letter.txt
+   ├── Output/
+   │ └── ReadyToSend/
+   │ └── letter_for_<Name>.txt
+   └── README.md
 
 ## ▶️ How It Works
 
@@ -54,22 +55,16 @@ It’s a great example of **file handling**, **string manipulation**, and **auto
 ---
 
 ## ✅ Example
+
 Dear [name],
-
 You are invited to the annual celebration!
-
 Regards,
 Team Python
 
-ruby
-Copy
-Edit
-
 **Output for "Alice":**
+
 Dear Alice,
-
 You are invited to the annual celebration!
-
 Regards,
 Team Python
 
