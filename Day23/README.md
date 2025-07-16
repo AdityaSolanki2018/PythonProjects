@@ -49,13 +49,13 @@ python main.py
 
 ❌ If you collide with a car
 
-📂 Project Structure
-    📁 DayXX_TurtleCrossingGame/
-        ├── main.py
-        ├── player.py
-        ├── car_manager.py
-        ├── scoreboard.py
-        ├── README.md
+##📂 Project Structure
+  📁 DayXX_TurtleCrossingGame/
+    ├── main.py
+    ├── player.py
+    ├── car_manager.py
+    ├── scoreboard.py
+    ├── README.md
 
 🌟 Part of My Python Game Series
 This project is part of my Python game development journey:
