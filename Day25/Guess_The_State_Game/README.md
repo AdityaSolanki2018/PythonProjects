@@ -1,7 +1,7 @@
 📸 Demo
-<img width="799" height="631" alt="image" src="https://github.com/user-attachments/assets/c2565791-e8e4-4d4b-ad93-c1c411d52a18" />
 
 You’ll see the map of the U.S., and each correct guess will place the state name on the map!
+<img width="799" height="631" alt="image" src="https://github.com/user-attachments/assets/c2565791-e8e4-4d4b-ad93-c1c411d52a18" />
 
 🚀 Features
 🐢 Graphical interface using Python's turtle module
